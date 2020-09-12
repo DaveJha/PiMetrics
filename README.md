@@ -1,5 +1,5 @@
 # WiFi Metrics
-Dave Jha (drj222@lehigh.edu)
+Dave Jha
 
 The purpose of this project is to run a series of metrics on a network and report the findings via InfluxDB.
 
